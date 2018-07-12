@@ -4,3 +4,6 @@ import random
 
 d = random.random.randint(10)
 print(d)
+
+d2 = random.random.randint(10)
+print(d2)
